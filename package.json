@@ -1,0 +1,16 @@
+{
+  "name": "com.skibitsky.static-asset-loader",
+  "version": "1.0.0",
+  "displayName": "Static Asset Loader",
+  "description": "Load asset from any project directory by type",
+  "repository": "skibitsky/static-asset-loader",
+  "author": {
+    "name": "Gleb Skibitsky",
+    "email": "gleb@skibitsky.com",
+    "url": "https://skibitsky.com"
+  },
+  "unity": "",
+  "license": "MIT",
+  "dependencies": {
+  }
+}

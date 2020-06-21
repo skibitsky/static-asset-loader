@@ -7,7 +7,7 @@ Very useful for loading configuration files of editor tools.
 ## Usage
 
 ```csharp
-public class MyEditorWindow : EditorWindow
+public static class MyEditorWindow : EditorWindow
 {
     private MyScriptableObject LoadConfiguration()
     {

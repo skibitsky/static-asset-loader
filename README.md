@@ -7,9 +7,9 @@ Very useful for loading configuration files of editor tools.
 ## Usage
 
 ```csharp
-public static class MyEditorWindow : EditorWindow
+public class MyEditorWindow : EditorWindow
 {
-    private MyScriptableObject LoadConfiguration()
+    private static MyScriptableObject LoadConfiguration()
     {
         return StaticAssetLoader.LoadAsset<MyScriptableObject>();
     }

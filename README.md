@@ -1,4 +1,4 @@
-# Static Asset Loader
+# Static Asset Loader [![openupm](https://img.shields.io/npm/v/com.skibitsky.static-asset-loader?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.skibitsky.static-asset-loader/)
 
 > Load asset from any project directory by type
 
